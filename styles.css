@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	margin: 5px;
+}
+
+img {
+	border: 1px solid #000;
+	width: 100px;
+	height: 100px;
+}
+
+div {
+	width: 1000px;
+	height: 500px;
+	border: 1px solid #000;
+}
